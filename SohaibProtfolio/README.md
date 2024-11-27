@@ -26,7 +26,7 @@ Starter Code Files👇: <br />
 ![Nextjs Creative Portfolio Website About Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/about-destop.png)
 
 #### Projects
-![Next.js Creative Portfolio Website Projects Page](https://github.com/SohaibTouseef/Protfolio/blob/main/SohaibProtfolio/public/wesite-images/Projects-desktop.png)
+![Next.js Creative Portfolio Website Projects Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/project-destop.png)
 
 #### Contact
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/contact-destop.png)
