@@ -10,7 +10,7 @@ For Demo checkout following link👇: <br />
 [Nextjs Creative Portfolio Website Demo](https://protfolio-two-theta.vercel.app/) <br />
 
 Starter Code Files👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/SohaibTouseef125/MyProtfolio) <br />
+➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/SohaibTouseef125/Protfolio) <br />
 -
 
 ---
