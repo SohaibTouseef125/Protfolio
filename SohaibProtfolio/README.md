@@ -33,11 +33,8 @@ Starter Code Files👇: <br />
 
 #### Mobile Version
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/mobile.png)
-
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/about-moblie.png)
-
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/project-mobile.png)
-
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/SohaibTouseef125/Protfolio/blob/main/SohaibProtfolio/public/Image/contact-mobile.png)
 
 ## Resources Used in This Project
